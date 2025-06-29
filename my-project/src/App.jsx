@@ -8,7 +8,7 @@ function App() {
 
   return (
     <>
-     <h1 className='bg-'>CHAI AUR REACT | PARSHWA </h1>
+     <h1 className='bg-green-500'>CHAI AUR REACT | PARSHWA </h1>
     </>
   )
 }
